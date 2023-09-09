@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I am an aspiring web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started at college where I took a course in HTML / CSS. After the course there was a gap of a couple of months where I tried my hand at a lot of things, but Front-End development is what got me the most! I am studying Front-End development on the FRONTEND/50K course. I am actively looking for a job!
+I am  aspiring web front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to IT began with the College, where I took a course on HTML / CSS. After the course there was a gap of a couple of months where I tried my hand at a lot of things, but Front-End development is what got me the most! I am studying Front-End development on the FRONTEND/50K course. I am actively looking for a job!
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
@@ -26,7 +26,7 @@ I am an aspiring web developer<img src="https://media.giphy.com/media/WUlplcMpOC
 ![Typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less)
 ![BOOTSTRAP](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
